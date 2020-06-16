@@ -1,0 +1,13 @@
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+D:\College\Semester 2\Pemrograman\Array\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+D:\College\Semester 2\Pemrograman\Array\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
